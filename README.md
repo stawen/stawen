@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Azure for MAIF**
 
+- 🦾 My professional Repository [@stanislas-draunet-maif](https://github.com/stanislas-draunet-maif)
+
 - 👯 I’m collaborate with **Microsoft on Azure Spring App** and **Pulumi Corp**
 
-- 💬 Ask me about **Cloud Organization, Gitops, DevOps, Pulumi, Terraform, Azure**
+- 💬 Ask me about **Cloud Organization, CCOE, Gitops, DevOps, Pulumi (typescript), Terraform, Azure**
 
 - 📫 How to reach me **stawen@dronek.com**
 
